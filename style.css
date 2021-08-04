@@ -1,0 +1,16 @@
+h1
+{
+	color: rgb(4, 0, 255); 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("Capture.PNG");
+	background-position: center;
+	background-size: cover;
+}
+
+#MyCanvas{
+border-width: 10px;
+background-color: #f8f8f8ec;
+border-style: ridge;
+}
